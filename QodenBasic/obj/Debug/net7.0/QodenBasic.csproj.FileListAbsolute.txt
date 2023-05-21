@@ -1,0 +1,15 @@
+C:\Users\komuk\RiderProjects\QodenBasic\QodenBasic\bin\Debug\net7.0\QodenBasic.exe
+C:\Users\komuk\RiderProjects\QodenBasic\QodenBasic\bin\Debug\net7.0\QodenBasic.deps.json
+C:\Users\komuk\RiderProjects\QodenBasic\QodenBasic\bin\Debug\net7.0\QodenBasic.runtimeconfig.json
+C:\Users\komuk\RiderProjects\QodenBasic\QodenBasic\bin\Debug\net7.0\QodenBasic.dll
+C:\Users\komuk\RiderProjects\QodenBasic\QodenBasic\bin\Debug\net7.0\QodenBasic.pdb
+C:\Users\komuk\RiderProjects\QodenBasic\QodenBasic\obj\Debug\net7.0\QodenBasic.csproj.AssemblyReference.cache
+C:\Users\komuk\RiderProjects\QodenBasic\QodenBasic\obj\Debug\net7.0\QodenBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\komuk\RiderProjects\QodenBasic\QodenBasic\obj\Debug\net7.0\QodenBasic.AssemblyInfoInputs.cache
+C:\Users\komuk\RiderProjects\QodenBasic\QodenBasic\obj\Debug\net7.0\QodenBasic.AssemblyInfo.cs
+C:\Users\komuk\RiderProjects\QodenBasic\QodenBasic\obj\Debug\net7.0\QodenBasic.csproj.CoreCompileInputs.cache
+C:\Users\komuk\RiderProjects\QodenBasic\QodenBasic\obj\Debug\net7.0\QodenBasic.dll
+C:\Users\komuk\RiderProjects\QodenBasic\QodenBasic\obj\Debug\net7.0\refint\QodenBasic.dll
+C:\Users\komuk\RiderProjects\QodenBasic\QodenBasic\obj\Debug\net7.0\QodenBasic.pdb
+C:\Users\komuk\RiderProjects\QodenBasic\QodenBasic\obj\Debug\net7.0\QodenBasic.genruntimeconfig.cache
+C:\Users\komuk\RiderProjects\QodenBasic\QodenBasic\obj\Debug\net7.0\ref\QodenBasic.dll
